@@ -12,6 +12,6 @@ Um pequeno projeto com Desenvolvimento Web com Asp.NET e CodeBehind com acesso a
 - Principais componentes do Asp.Net
 - Validação com ExpressionValidator
 - CodeBehind com acesso a BD com SqlClient
-- Utilização do Front-End Bootstrap
+- Utilização do framework Front-End Bootstrap
 
 p.s.: não esquecer de alterar a connection string!!!!!
